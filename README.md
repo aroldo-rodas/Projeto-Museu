@@ -4,4 +4,4 @@ Projetinho de um site de museu, bem estilizado, não é responsivo para celulare
 
 # Acesse e confira:
 
-🖱️ https://aroldo-rodas.github.io/Project-Museu/
+🖱️ https://aroldo-rodas.github.io/Projeto-Museu/
